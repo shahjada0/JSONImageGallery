@@ -15,7 +15,7 @@
 - **JSON-based storage**: No need for complex databases.
 
 ## 🚀 Demo
-Check out the [live demo](#) (link to your demo if you host it).
+Check out the [live demo](#) (demo link).
 
 ## 📂 Project Structure
 ```bash
